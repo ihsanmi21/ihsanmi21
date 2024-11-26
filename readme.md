@@ -1,73 +1,71 @@
-<h1 align="center">👋 Hey There, I'm Ihsan Maulana Ilmi</h1>
-<h3 align="center">🚀 Junior Data Scientist | Machine Learning Enthusiast | Pharma Trailblazer</h3>
+# 👋 Hello, I'm Ihsan Maulana Ilmi
+### 🚀 Junior Data Scientist | Machine Learning Visionary | Pharma Innovator
+
 <p align="center">
-   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
 ---
 
-### 🌟 About Me  
-
-- 🌐 **Junior Data Scientist** innovating in the pharmaceutical space.  
-- 💡 Passionate about solving real-world challenges using **Machine Learning** and **Anomaly Detection**.  
-- 🔍 Exploring cutting-edge AI frontiers like **MLOps** and **Deep Learning Architectures**.  
-- 🎯 **Fun Fact**: I transform numbers into stories that drive decisions.  
-
----
-
-### 🚀 Featured Projects  
-
-#### **1. [Pharma Anomaly Detection System](https://github.com/username/project)**  
-   🔬 Developed a cutting-edge solution to identify irregularities in pharmaceutical sales data.  
-   ⚙️ **Tech Stack**: Python, Isolation Forest, Tukey's Fence  
-
-#### **2. [Dynamic SQL-Google Sheets Automation](https://github.com/username/project2)**  
-   📊 Designed a seamless pipeline for automated data sync between SQL databases and Google Sheets.  
-   🛠️ **Tech Stack**: Google API, Pandas, SQLAlchemy  
-
-#### **3. [Discount Impact Analytics](https://github.com/username/project3)**  
-   📈 Created predictive models to analyze how discounts influence sales volumes.  
-   🎯 **Tech Stack**: Python, Scikit-learn, Matplotlib  
+## 🌟 About Me
+- 🌐 **Junior Data Scientist** pushing boundaries in the pharmaceutical industry.
+- 💡 Passionate about applying **Machine Learning** to solve real-world challenges, with a focus on **Anomaly Detection** and advanced AI techniques.
+- 🔍 Always exploring the latest in **MLOps**, **Deep Learning**, and data-driven decision-making.
+- 🎯 **Fun Fact**: I turn raw data into compelling stories that guide strategic choices!
 
 ---
 
-### 🛠️ Tech Arsenal  
+## 🚀 Featured Projects
 
+### **1. [Pharma Anomaly Detection System](https://github.com/username/project)**
+   🔬 Created a state-of-the-art system to detect unusual patterns in pharmaceutical sales.
+   ⚙️ **Tech Stack**: Python, Isolation Forest, Tukey's Fence
+
+### **2. [Dynamic SQL-Google Sheets Automation](https://github.com/username/project2)**
+   📊 Developed a smooth, automated pipeline for data syncing between SQL databases and Google Sheets.
+   🛠️ **Tech Stack**: Google API, Pandas, SQLAlchemy
+
+### **3. [Discount Impact Analytics](https://github.com/username/project3)**
+   📈 Built predictive models to understand how discount rates affect sales volume.
+   🎯 **Tech Stack**: Python, Scikit-learn, Matplotlib
+
+---
+
+## 🛠️ Tech Arsenal
 <p align="center">
-   <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" alt="Python">
-   <img src="https://img.shields.io/badge/SQL-Master-orange?style=for-the-badge&logo=postgresql" alt="SQL">
-   <img src="https://img.shields.io/badge/ML-Advanced-yellow?style=for-the-badge&logo=tensorflow" alt="ML">
-   <img src="https://img.shields.io/badge/Data%20Viz-Seaborn%20|%20Plotly-red?style=for-the-badge&logo=tableau" alt="Data Viz">
-   <img src="https://img.shields.io/badge/Automation-Apache%20Airflow%20|%20FastAPI-green?style=for-the-badge&logo=apacheairflow" alt="Automation">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-Master-orange?style=for-the-badge&logo=postgresql" alt="SQL">
+  <img src="https://img.shields.io/badge/ML-Advanced-yellow?style=for-the-badge&logo=tensorflow" alt="ML">
+  <img src="https://img.shields.io/badge/Data%20Viz-Seaborn%20|%20Plotly-red?style=for-the-badge&logo=tableau" alt="Data Viz">
+  <img src="https://img.shields.io/badge/Automation-Apache%20Airflow%20|%20FastAPI-green?style=for-the-badge&logo=apacheairflow" alt="Automation">
 </p>
 
 ---
 
-### 🌐 Let's Connect  
-
-<p align="center">
-   <a href="https://linkedin.com/in/username" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Join%20My%20Network-blue?style=for-the-badge&logo=linkedin">
-   </a>
-   <a href="https://yourwebsite.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=firefox">
-   </a>
-   <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-red?style=for-the-badge&logo=gmail">
-   </a>
-</p>
+## 🏆 Achievements
+- 🌟 **20% Model Accuracy Boost**: Enhanced anomaly detection accuracy through cutting-edge feature engineering.
+- ⚡ **SQL Performance Ninja**: Achieved a 50% reduction in query times on massive pharma datasets.
+- 🌍 **Open Source Advocate**: Actively contributing to community-driven AI and ML projects.
 
 ---
 
-### 🏆 Achievements  
-
-- 🌟 **20% Model Accuracy Boost**: Leveraged advanced feature engineering for a high-precision anomaly detection model.  
-- ⚡ **SQL Performance Ninja**: Reduced query processing times by 50% on high-volume pharma datasets.  
-- 🌍 **Open Source Advocate**: Active contributor to community-driven AI and ML initiatives.  
+## 🌐 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Join%20My%20Network-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=firefox" alt="Portfolio">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 
 ---
 
 <h3 align="center">🚀 Let's Build the Future Together! 🚀</h3>
+
 <p align="center">
-   <img src="https://media.giphy.com/media/fdGkCOiM0B9N3q3OaB/giphy.gif" width="300" alt="Data Animation">
+  <img src="https://media.giphy.com/media/fdGkCOiM0B9N3q3OaB/giphy.gif" width="300" alt="Data Animation">
 </p>
